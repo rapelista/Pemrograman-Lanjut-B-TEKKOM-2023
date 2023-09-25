@@ -4,5 +4,3 @@ file.close()
 
 with open('myfile.txt', 'r') as file:
     print(file.read())
-
-print(file.read())
